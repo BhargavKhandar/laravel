@@ -1,0 +1,20 @@
+[
+    {
+        "name" : "bhargav",
+        "email" : "bhargav12@gmail.com",
+        "age" : "20",
+        "city" : "rajkot"
+    },
+    {
+        "name" : "harshit",
+        "email" : "harshit12@gmail.com",
+        "age" : "15",
+        "city" : "rajkot"
+    },
+    {
+        "name" : "dinesh",
+        "email" : "dinesh12@gmail.com",
+        "age" : "17",
+        "city" : "jamnagar"
+    }
+]
